@@ -14,7 +14,7 @@ Setiap folder di sini berbeda-beda jenis tugasnya. Ada yang merupakan tugas yang
 
 ---
 
-## 🗂️ Struktur Repository
+## Struktur Repository
 /Tugas-Kampus
 │
 ├── yaudahkitaganti-linux
