@@ -23,6 +23,9 @@ Setiap folder di sini berbeda-beda jenis tugasnya. Ada yang merupakan tugas yang
 ├── yaudahkitaganti-windows
 │ └── Tugas kelompok pertama yang di jalankan di windows
 │
+├── Kelasku
+│ └── Tugas kelompok untuk tugas akhir mentoring MI 2025
+│
 └── README.md
 
 *(Struktur ini bisa berubah dan bertambah seiring tugas dari dosen datang)*
